@@ -1,6 +1,6 @@
 # 🌸 node.js addict 
 
-![Banner](https://i.hizliresim.com/e8vonze.png)
+![Banner](https://i.hizliresim.com/mlr01bw.png)
 
 **Hello there!** 👋
 
