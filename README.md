@@ -1,6 +1,6 @@
 # 🌸 ur cute femboi! 
 
-![Banner](https://i.hizliresim.com/1icht85.png)
+![Banner](https://i.pinimg.com/736x/77/20/88/7720886b9198a0d0362d82a8b2211612.jpg)
 
 **Hello there!** 👋
 
