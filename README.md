@@ -1,4 +1,4 @@
 <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@klofrox?theme=booru-lisu"> <br/>
+	<img src="https://count.getloli.com/@klofrox?theme=booru-lewd"> <br/>
 </p>
 
