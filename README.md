@@ -1,4 +1,4 @@
 <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@klofrox?theme=moebooru-h"> <br/>
+	<img src="https://moe-counter.glitch.me/get/@klofrox?theme=moebooru"> <br/>
 </p>
 
